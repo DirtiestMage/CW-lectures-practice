@@ -15,6 +15,6 @@ int main(){
         }
         printf("\n");
     }
-    printf("attempting a git pull");
+
     return 0;
 }
