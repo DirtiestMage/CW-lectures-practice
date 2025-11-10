@@ -1,0 +1,49 @@
+# Compiled Object files and Libraries
+*.o
+*.obj
+*.so
+*.a
+*.dll
+*.lib
+
+# Executables
+*.exe
+*.out
+*.bin
+a.out
+
+# Temporary files
+*~
+*.tmp
+*.bak
+*.swp
+*.log
+
+# Build directories
+build/
+bin/
+obj/
+Debug/
+Release/
+
+# IDE-specific files (examples for common IDEs)
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.ncb
+*.aps
+*.pdb
+*.ilk
+*.ipch
+
+# Eclipse
+.project
+.cproject
+.settings/
+
+# VS Code
+.vscode/
+
+# Make-related files
+Makefile.local
